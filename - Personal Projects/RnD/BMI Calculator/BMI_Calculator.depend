@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1480082271 source:c:\users\ian\documents\github\RnD\bmi_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1480685365 source:c:\users\ian\documents\github\rnd\bmi calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
