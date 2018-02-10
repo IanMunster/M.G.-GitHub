@@ -1,0 +1,12 @@
+To Do
+
+Beast animation
+Make NPC AI
+set Layers
+Fix english!!
+record voices
+
+Make part2 Georgio's Quest:
+Land village
+Shopkeeper
+waymarker

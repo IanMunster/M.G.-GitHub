@@ -1,0 +1,18 @@
+
+> Afmeting Speelveld. [480X360]
+X= 480 (240+240)
+Y= 360 (180+180)
+
+> Afmeting Actor
+45X45
+
+> Lagen (Move to top & Move to layer #)
+#1: UI At top (buttons)
+#2: UI Ground (BG)
+#3: Objects (trees, houses, etc)
+#4: Player Layer 1.
+#5: NPC
+#6: Doorways & Items
+#7: Background
+#8: Player Layer 2 (underlayer)
+#9: ? NPC Layer 2 (underlayer)
